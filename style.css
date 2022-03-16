@@ -1,13 +1,13 @@
-.jumbotron {
-  padding-top: 5rem;
+.gelombang1 {
+  z-index: 1000;
+}
+.pertama {
+  margin-top: 5rem;
+}
+.gambar {
+  margin-left: -10%;
+  z-index: -100;
+}
+#kedua {
   background-color: #e2edff;
-}
-#projects {
-  background-color: #e2edff;
-}
-section {
-  padding-top: 5rem;
-}
-body {
-  background-color: aqua;
 }
